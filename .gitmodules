@@ -6,7 +6,7 @@
 	url = https://github.com/libertysoft3/reddit-i18n.git
 [submodule "snudown"]
 	path = snudown
-	url = https://github.com/libertysoft3/snudown.git
+	url = https://github.com/robert-h-at-cp/snudown.git
 [submodule "websockets"]
 	path = websockets
 	url = https://github.com/reddit-archive/reddit-service-websockets
