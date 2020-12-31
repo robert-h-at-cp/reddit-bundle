@@ -1,6 +1,3 @@
-[submodule "reddit"]
-	path = reddit
-	url = https://github.com/libertysoft3/saidit.git
 [submodule "i18n"]
 	path = i18n
 	url = https://github.com/libertysoft3/reddit-i18n.git
@@ -13,3 +10,6 @@
 [submodule "snudown"]
 	path = snudown
 	url = https://github.com/robert-h-at-cp/snudown.git
+[submodule "reddit"]
+	path = reddit
+	url = https://github.com/robert-h-at-cp/saidit.git
